@@ -1,0 +1,16 @@
+{
+  "name": "bangercommittee",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Vote on songs for a playlist with your friends, as a committee.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
